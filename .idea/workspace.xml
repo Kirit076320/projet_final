@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee3b6ff1-9708-4d41-9169-7107802110c9" name="Changes" comment="modif html + css + img">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projet_final.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/profil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Cours_boursier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/carrousel_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/carrousel_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/carrousel_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/carrousel_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/carrousel_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/categorie_femme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/categorie_sapin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/projet.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;Kirit076320&quot;,
+      &quot;fullname&quot;: &quot;Kirit076320&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/sorow-project/projet_final.git&quot;,
+    &quot;second&quot;: &quot;d572dc00-ce38-4c63-9f10-09f8049fdaa3&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Profil" />
+                    <option name="lastUsedInstant" value="1733325438" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="Dev" />
+                    <option name="lastUsedInstant" value="1733211588" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1733211587" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2phFnYaHddCsG8s0N5OUIeVTuCN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.contact.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.profil.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Profil",
+    "last_opened_file_path": "C:/Users/qsdgr/PhpstormProjects/projet_final",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qsdgr\PhpstormProjects\projet_final" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pages:   stage: deploy   script:   - mkdir .public   - cp -r * .public   - mv .public public   artifacts:     paths:     - public   only:   - main" />
+      <command value="command" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee3b6ff1-9708-4d41-9169-7107802110c9" name="Changes" comment="" />
+      <created>1733210568188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733210568188</updated>
+      <workItem from="1733210569910" duration="20000000" />
+      <workItem from="1733299885467" duration="15162000" />
+      <workItem from="1733323699510" duration="2665000" />
+      <workItem from="1733386201853" duration="7422000" />
+    </task>
+    <task id="LOCAL-00001" summary="modif html + css + img">
+      <option name="closed" value="true" />
+      <created>1733220248618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733220248618</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modif html + css + img">
+      <option name="closed" value="true" />
+      <created>1733223310553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733223310553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modif html + css + img">
+      <option name="closed" value="true" />
+      <created>1733325420898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733325420898</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modif html + css + img">
+      <option name="closed" value="true" />
+      <created>1733327720731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733327720731</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modif html + css + img">
+      <option name="closed" value="true" />
+      <created>1733386896702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733386896702</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modif html + css + img">
+      <option name="closed" value="true" />
+      <created>1733387473975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733387473975</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modif html + css + img">
+      <option name="closed" value="true" />
+      <created>1733390473497</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733390473497</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modif html + css + img">
+      <option name="closed" value="true" />
+      <created>1733391713347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733391713347</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modif html + css + img">
+      <option name="closed" value="true" />
+      <created>1733392104305</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733392104305</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modif html + css + img" />
+    <option name="LAST_COMMIT_MESSAGE" value="modif html + css + img" />
+  </component>
+</project>
