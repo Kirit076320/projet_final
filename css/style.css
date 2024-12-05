@@ -1,28 +1,8 @@
-*{
-    margin: 0;
-    padding: 0;
-    font-family: Verdana;
-}
-body{
-    background-color: #f9eded;
-}
-header {
-    z-index: 10;
-    position: sticky!important;
-    top: 0;
-    left: 0;
-}
-
-.hero-section {
-    height: 100vh!important;
-}
-
-.zindex{
-    z-index: 0;
-}
-.titre-h2{
-    margin: 15px ;
-text-align: center;
-    color: darkred;
-    font-size: 3rem;
-}
+*{margin: 0;padding: 0;font-family: Verdana;}
+body{background-color: #f9eded;}
+header {z-index: 10;position: sticky!important;top: 0;left: 0;}
+.hero-section {height: 100vh!important;}
+.zindex{z-index: 0!important;}
+.titre-h2{margin: 15px ;text-align: center;color: darkred;font-size: 3rem;}
+.text{color: indigo;transition: 1.2ms;transform: scale(1.1);}
+.text:hover{color: red;}
