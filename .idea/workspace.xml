@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee3b6ff1-9708-4d41-9169-7107802110c9" name="Changes" comment="modif html + css + img">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/projet_final.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/profil.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Cours_boursier.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/carrousel_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/carrousel_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/carrousel_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/carrousel_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/carrousel_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/categorie_femme.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/categorie_sapin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/projet.js" beforeDir="false" />
-    </list>
+    <list default="true" id="ee3b6ff1-9708-4d41-9169-7107802110c9" name="Changes" comment="modif html + css + img" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +142,7 @@
       <workItem from="1733210569910" duration="20000000" />
       <workItem from="1733299885467" duration="15162000" />
       <workItem from="1733323699510" duration="2665000" />
-      <workItem from="1733386201853" duration="7422000" />
+      <workItem from="1733386201853" duration="6965000" />
     </task>
     <task id="LOCAL-00001" summary="modif html + css + img">
       <option name="closed" value="true" />
